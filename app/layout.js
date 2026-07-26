@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "AURION — Premium IPTV Streaming",
+  title: "IPTVFinland — Premium IPTV Streaming",
   description:
     "Premium IPTV with true 4K clarity, instant activation and a library that never sleeps — streaming, perfected.",
 };
